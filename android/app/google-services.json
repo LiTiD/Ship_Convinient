@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116724370672",
+    "project_id": "shipconvenient-24bb1",
+    "storage_bucket": "shipconvenient-24bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116724370672:android:ee6bf4591282726e52c635",
+        "android_client_info": {
+          "package_name": "com.example.shipconvenient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116724370672-bitgs1lck7airp2iv72l1kn63hhv8bmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6U5SCgYeOX7s3QxTgbBMV4xsuz_5wlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116724370672-bitgs1lck7airp2iv72l1kn63hhv8bmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
